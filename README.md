@@ -7,7 +7,7 @@
 # AnimateFX
 
 A library of ready-to-use animations for JavaFX
-Fixed. add module-info.java
+Fixed] add module-info.java
 
 Features:
 
